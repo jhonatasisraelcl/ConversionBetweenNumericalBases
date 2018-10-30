@@ -28,4 +28,16 @@ Executar o programa sem parâmetros encerra o programa.
 
 -------------------------------------------------------------------------
 
-Programas baseados em projeto desenvolvido pelo monitor Robson Agripino da Silva, e orientados pelo professor Luiz Paulo de Assis Barbosa
+Desenvolvido por:
+
+Jhonatas Israel da Costa Laurentino (Discente) 
+Robson Agripino da Silva (Monitor)
+Sob a orientação do Prof. Luiz Paulo de Assis Barbosa
+
+Como parte das atividades do projeto de monitoria:
+
+Desenvolvimento de Ferramentas de Apoio Pedagógico Para
+Os Componentes de Formação Básica e Obrigatória em Ciência
+e Tecnologia da Computação do Curso BSI/CERES da UFRN.
+
+Excultar o programa passando -info, mostra informações dos desenvolvedores.
