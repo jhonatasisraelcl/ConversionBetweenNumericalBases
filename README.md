@@ -27,3 +27,5 @@ Excultar o programa passando -info, mostra informações dos desenvolvedores.
 Executar o programa sem parâmetros encerra o programa.
 
 -------------------------------------------------------------------------
+
+Programas baseados em projeto desenvolvido pelo monitor Robson Agripino da Silva, e orientados pelo professor dr. Luiz Paulo de Assis Barbosa
