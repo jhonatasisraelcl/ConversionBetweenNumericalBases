@@ -1,7 +1,7 @@
 # ConversionBetweenNumericalBases
 1st program of the list of aid to the studies of the matter Introduction to Informatics with professor Luiz Paulo
 
-===========================================================================
+-------------------------------------------------------------------------
 O programa converte números decimais inteiros para outra base.
 
 O programa recebe um número em decimal e a base alvo.
@@ -25,5 +25,5 @@ Irá converter o decimal 70 para base 5 (última base informada).
 Executar o programa passando -ajuda, mostra essa mensagem.
 Excultar o programa passando -info, mostra informações dos desenvolvedores.
 Executar o programa sem parâmetros encerra o programa.
-===========================================================================
 
+-------------------------------------------------------------------------
